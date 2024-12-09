@@ -9,8 +9,8 @@ INDEX VERSION 1.134+C:\Users\vslen\Projects\blogpessoal\.metadata\.plugins\org.e
 2429459292.index
 2220801160.index
 2638009389.index
-3139461459.index
 1514863891.index
+3139461459.index
 3923904272.index
 1924495051.index
 4081239712.index
@@ -40,8 +40,8 @@ INDEX VERSION 1.134+C:\Users\vslen\Projects\blogpessoal\.metadata\.plugins\org.e
 831725309.index
 3880082372.index
 3395887813.index
-1637251429.index
 2023758947.index
+1637251429.index
 1865797976.index
 2445790708.index
 16816359.index
@@ -56,8 +56,8 @@ INDEX VERSION 1.134+C:\Users\vslen\Projects\blogpessoal\.metadata\.plugins\org.e
 910322820.index
 3827084643.index
 569544362.index
-235241302.index
 1675070249.index
+235241302.index
 1720296787.index
 3091920638.index
 943980794.index
@@ -65,7 +65,6 @@ INDEX VERSION 1.134+C:\Users\vslen\Projects\blogpessoal\.metadata\.plugins\org.e
 572419562.index
 3178229413.index
 157744064.index
-3505642773.index
 2166621826.index
 513565285.index
 2460989183.index
